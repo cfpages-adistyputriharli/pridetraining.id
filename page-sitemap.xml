@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-05T13:39:27+00:00</lastmod>
+		<lastmod>2024-09-12T04:09:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/kursus-pada-pridetraining.png</image:loc>
 		</image:image>
@@ -122,8 +122,179 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/tentang-kami/</loc>
+		<lastmod>2024-09-11T14:21:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Profesi.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Basic-Training-Program.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Global-Training.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Subject-Areas-Training.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/SERAGAM-SISWA-PRIDETRAINING.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/alumni/</loc>
+		<lastmod>2024-09-11T12:59:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-14.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-13.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-12.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-11.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Alumni-PrideTraining-4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/workflow-pendidikan/</loc>
+		<lastmod>2024-09-11T12:35:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/WORKFLOW-PENDIDIKAN-PRIDE-TRAINING-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/entrepeneur-pride.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logo-pride-170x48.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/workflow-pendaftaran/</loc>
-		<lastmod>2024-09-05T14:42:59+00:00</lastmod>
+		<lastmod>2024-09-11T12:35:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/WORKFLOW-PENDAFTARAN-PRIDE-TRAINING-1024x576.jpg</image:loc>
 		</image:image>
@@ -165,8 +336,181 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/subject-areas/</loc>
+		<lastmod>2024-09-11T12:33:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/about-us.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-1-1024x576.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/profesi/ticketing-reservasi/</loc>
+		<lastmod>2024-09-11T12:24:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-5.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/profesi/pramugara-pramugari/</loc>
-		<lastmod>2024-09-05T14:42:22+00:00</lastmod>
+		<lastmod>2024-09-11T12:23:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pramugara.jpg</image:loc>
 		</image:image>
@@ -251,250 +595,10 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/training-pramugari-1A.jpg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/workflow-pendidikan/</loc>
-		<lastmod>2024-09-05T14:41:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/WORKFLOW-PENDIDIKAN-PRIDE-TRAINING-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/entrepeneur-pride.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logo-pride-170x48.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tentang-kami/</loc>
-		<lastmod>2024-09-05T14:39:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Profesi.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Training-Program.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Global-Training.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Subject-Areas-Training.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/entrepeneur-pride.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/subject-areas/</loc>
-		<lastmod>2024-09-05T14:39:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-1-1024x576.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/profesi/pilot/</loc>
-		<lastmod>2024-09-05T14:38:58+00:00</lastmod>
+		<lastmod>2024-09-11T12:23:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/private-pilot-license.jpg</image:loc>
 		</image:image>
@@ -588,40 +692,10 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/sekolah-pilot-1.jpg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/profesi/ground-support-equipment/</loc>
-		<lastmod>2024-09-05T13:44:43+00:00</lastmod>
+		<lastmod>2024-09-11T12:22:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/GSE-5.jpg</image:loc>
 		</image:image>
@@ -738,131 +812,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/profesi/ticketing-reservasi/</loc>
-		<lastmod>2024-09-05T13:39:34+00:00</lastmod>
+		<loc>/profesi/ground-staff/</loc>
+		<lastmod>2024-09-11T12:21:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-5.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/profesi/avsec/</loc>
-		<lastmod>2024-09-05T13:16:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-15.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-6.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
@@ -931,169 +887,21 @@
 			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-3-1024x683.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-3-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-5.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-6.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/profesi/cargo-service/</loc>
-		<lastmod>2024-09-05T13:03:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-6-1024x576.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/cargo-service-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/profesi/aircraft-marshaller/</loc>
-		<lastmod>2024-09-05T13:01:18+00:00</lastmod>
+		<lastmod>2024-09-11T12:21:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-6.jpg</image:loc>
 		</image:image>
@@ -1210,8 +1018,54 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/profesi/</loc>
+		<lastmod>2024-09-11T12:21:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/private-pilot-license.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pramugari.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/ground-staff-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/GSE-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods-4-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-15.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sekolah-pilot-4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/profesi/baggage-handling/</loc>
-		<lastmod>2024-09-05T12:56:52+00:00</lastmod>
+		<lastmod>2024-09-11T12:21:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling-1.jpg</image:loc>
 		</image:image>
@@ -1328,13 +1182,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/profesi/ground-staff/</loc>
-		<lastmod>2024-09-05T12:56:04+00:00</lastmod>
+		<loc>/profesi/avsec/</loc>
+		<lastmod>2024-09-11T12:21:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-15.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-6.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
@@ -1403,51 +1257,21 @@
 			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-3-1024x683.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-3-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-5.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pilot.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Pramugari-Pramugara-Flight-Attendant.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Staff.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-Service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Basic-Aviation-Security-AVSEC.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ground-Support-Equipment-GSE.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Aircraft-Marshaller.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/AVSEC-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/profesi/cargo-dangerous-goods/</loc>
-		<lastmod>2024-09-05T12:46:31+00:00</lastmod>
+		<lastmod>2024-09-11T12:20:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods-5.jpg</image:loc>
 		</image:image>
@@ -1564,54 +1388,103 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/profesi/</loc>
-		<lastmod>2024-09-05T12:45:49+00:00</lastmod>
+		<loc>/profesi/cargo-service/</loc>
+		<lastmod>2024-09-11T12:20:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/private-pilot-license.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/pramugari.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/ground-staff-6.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/cargo-service-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Ticketing-Reservasi-4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/APS.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/GSE-3.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/badan-karantina.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-5.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/bpjs-kesehatan.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods-5.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/citilink.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Baggage-Handling-3.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/dirgantara.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Cargo-dan-Dangerous-Goods-4-1024x678.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/dirjen-pajak.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/AVSEC-15.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/dnet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-7.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/gapura.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sekolah-pilot-4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/garuda-indonesia-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/hayyu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/indosat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/its.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/mandiri.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/parewa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/RED.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sn-cargo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/sriwijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-brawijaya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/univ-merdeka.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/air-asia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-6-1024x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/cargo-service-3-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/kontak-kami/</loc>
+		<lastmod>2024-09-11T12:14:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/global/</loc>
-		<lastmod>2024-09-05T12:44:46+00:00</lastmod>
+		<lastmod>2024-09-11T12:13:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
 		</image:image>
@@ -1695,15 +1568,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak-kami/</loc>
-		<lastmod>2024-09-05T12:35:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/basic/</loc>
-		<lastmod>2024-09-05T12:28:23+00:00</lastmod>
+		<lastmod>2024-09-11T12:12:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pridetraining-staff.png</image:loc>
 		</image:image>
@@ -1771,7 +1637,7 @@
 			<image:loc>/wp-content/uploads/2024/08/APL.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/sekolah-pilot-2.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/about-us.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/airport-marshallers-3.jpg</image:loc>
