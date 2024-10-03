@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for PRIDETRAINING.ID	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pride Training &#38; Language Center</description>
-	<lastBuildDate>Wed, 18 Sep 2024 07:14:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Oct 2024 14:53:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>

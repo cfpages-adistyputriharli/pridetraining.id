@@ -9,16 +9,16 @@
 
 <channel>
 	<title>PRIDETRAINING.ID</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pride Training &#38; Language Center</description>
-	<lastBuildDate>Wed, 18 Sep 2024 07:14:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Oct 2024 14:53:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/08/cropped-favicon-pride-32x32.jpg</url>
