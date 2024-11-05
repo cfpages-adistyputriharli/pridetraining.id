@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pride Training &#38; Language Center</description>
-	<lastBuildDate>Thu, 03 Oct 2024 07:02:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Nov 2024 04:57:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 </channel>
 </rss>

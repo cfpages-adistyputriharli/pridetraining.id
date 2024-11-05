@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Pilot &#8211; PRIDETRAINING.ID</title>
+	<title>Pilot - PRIDETRAINING.ID</title>
 	<atom:link href="/category/pilot/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pride Training &#38; Language Center</description>
-	<lastBuildDate>Thu, 03 Oct 2024 07:02:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Nov 2024 04:57:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/08/cropped-favicon-pride-32x32.jpg</url>
-	<title>Pilot &#8211; PRIDETRAINING.ID</title>
+	<title>Pilot - PRIDETRAINING.ID</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
